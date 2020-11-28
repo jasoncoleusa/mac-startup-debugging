@@ -1,1 +1,1 @@
-bash /tmp/startup-script.sh &
+bash /tmp/monitor-script.sh &
