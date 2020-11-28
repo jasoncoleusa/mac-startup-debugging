@@ -1,1 +1,1 @@
-bash /tmp/kobayashi-script.sh &
+bash /tmp/startup-script.sh &
